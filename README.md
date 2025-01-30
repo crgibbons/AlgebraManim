@@ -6,11 +6,7 @@ These animations should provide simple, clear visual information that helps to
 demystify technical, notation-heavy, or otherwise complicated material.
 
 ### Topics
-1. Algebra in the Complex Plane.
-a. Complex multiplication
-b. Roots of Unity
-c. Roots of Complex Numbers
-2. Galois Group Elements as Permutions.
-3. Properties of Algebraic Functions.
-a. Kernels and Images
-b. Commutative Diagrams
+1. Algebra in the Complex Plane: complex multiplication, roots of unity, roots of complex numbers
+2. Galois Group Elements as Permutions
+3. Properties of Algebraic Functions: kernels and images, commutative diagrams
+4. Chain Complexes and Exact Sequences
