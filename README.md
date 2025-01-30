@@ -7,10 +7,10 @@ demystify technical, notation-heavy, or otherwise complicated material.
 
 ### Topics
 1. Algebra in the Complex Plane.
-   a. Complex multiplication
-   b. Roots of Unity
-   c. Roots of Complex Numbers
+a. Complex multiplication
+b. Roots of Unity
+c. Roots of Complex Numbers
 2. Galois Group Elements as Permutions.
 3. Properties of Algebraic Functions.
-   a. Kernels
-   b. Images
+a. Kernels and Images
+b. Commutative Diagrams
